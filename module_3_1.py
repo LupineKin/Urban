@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿def count_calls():
+=======
+def count_calls():
+>>>>>>> 0d3cd3d68f0dbc7f742f72885a3419b5c168c324
     global calls
     calls += 1
 

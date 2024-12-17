@@ -1,7 +1,4 @@
-﻿import re
-
-
-def count_calls():
+﻿def count_calls():
     global calls
     calls += 1
 
